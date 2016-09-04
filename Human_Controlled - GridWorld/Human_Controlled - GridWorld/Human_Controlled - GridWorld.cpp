@@ -1,6 +1,6 @@
 // Human Controlled.cpp : Defines the entry point for the console application.
 //
-
+//
 #include <iostream> 
 #include <stdio.h>
 #include "stdafx.h"
@@ -122,4 +122,4 @@ int main()
 	return 0;
 }
 
-
+//
